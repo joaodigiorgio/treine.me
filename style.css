@@ -104,11 +104,11 @@ footer {
     font-size: 14px;
     line-height: 28px;
     text-align: center;
-    position:fixed;
+    
     bottom: 50px;
     left: 0;
     right: 0;
-    margin: 30px auto 0; 
+    margin: 140px auto 0; 
 }
 
 footer a {
